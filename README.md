@@ -16,4 +16,4 @@
 * [Discord Profilim](https://discord.com/users/447133403700264962)
 * Herhangi bir hata bulmanız durumunda ya da yardım isteyeceğiniz zaman help kanalından bana etiket atabilirsiniz
 
-### NOT: Botta MIT lisansı bulunmaktadır. Bu botun dosyalarının benden habersiz paylaşılması/satılması durumunda gerekli işlemler yapılacaktır!
+### NOT: Botta MIT lisansı bulunmaktadır.
